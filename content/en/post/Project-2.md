@@ -2,7 +2,7 @@
 date: 2020-03-09T10:58:08-04:00
 description: "machine learning Algorithm to estimate and Predict materials Properties"
 featured_image: "/images/image1.PNG"
-title: "Project 1: Using Artificial Neural Network to predict the Hardness Properties of a Material"
+title: "Project 2: Using Artificial Neural Network to predict the Hardness Properties of a Material"
 
 ---
 
