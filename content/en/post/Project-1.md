@@ -15,5 +15,5 @@ title: "Project 1: Using Convolution Neural Network for image classification"
 * Creating the model
 * Train the model
 * Data augumation to improves the accuaracy by simply geenerating additional training data from the existing examples by augumenting them using random transformations. Aslo, it exposes the   model to more aspects of the data and generalize better.
-{{< figure src="/images/image1.PNG" >}}
+{{< figure src="/images/capture2.PNG" >}}
 [Link to GitHub Repository](https://github.com/AyorindeTayo/Case-Study-A-Deep-Learning-Knowledge/blob/main/Flowerimageclassification.ipynb)
